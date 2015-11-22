@@ -29,7 +29,8 @@ public class HetroRecyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
         this.context=context;
         inflater=LayoutInflater.from(context);
 
-        data.add("Keep emotionally active.  Cater to your favorite neurosis sdf asdf af");
+        data.add("\"Linux was originally developed as a free operating system for personal computers based on the Intel x86 " +
+                "architecture, but has since been ported to more computer hardware platforms than any other operating system.\"");
         data.add(new NormalItem("NAV", "Navigation", "ls cd  cp"));
         data.add(new NormalItem("NAV", "Scripting", "read $ for if else"));
         data.add(new NormalItem("NAV", "Editors", "vim Emacs Nano"));
