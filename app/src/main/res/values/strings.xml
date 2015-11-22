@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">How To Linux</string>
+
+    <!-- home icon code -->
+    <string name="basic_icon">&#xe903;</string>
+    <string name="script_icon">&#xe900;</string>
+    <string name="editor_icon">&#xe901;</string>
+    <string name="quiz_icon">&#xe902;</string>
+    <string name="miscallenous">&#xe904;</string>
+</resources>

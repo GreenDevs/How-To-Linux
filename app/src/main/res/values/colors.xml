@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="secondaryText">#888</color>
+    <color name="primaryText">#000</color>
+
+    <!-- GRID ITEM COLOR COLLECTIONS -->
+    <color name="blue">#ff429fed</color>
+    <color name="redorange">#ffe44d26</color>
+    <color name="green">#ff25a599</color>
+    <color name="pureorange">#ffff8800</color>
+
+    <!--Hamro patro ko colors -->
+
+    <color name="patro_orange">#fff44336</color>
+    <color name="patro_green">#ff009688</color>
+    <color name="patro_blue">#ff3f51b5</color>
+    <color name="patro_grey">#ff607d8b</color>
+    <color name="patro_yellow">#fff9b11c</color>
+</resources>
